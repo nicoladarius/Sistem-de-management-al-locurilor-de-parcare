@@ -1,6 +1,8 @@
 # Sistem de management al locurilor de parcare
 ## Contor de locuri de parcare, folosind OpenCV
 
+The image and video used in this application are sourced from external sources. This application is created for learning purposes only.
+
 ## Cuprins
 - [Introducere](#introducere)
 - [Instalare](#instalare)
