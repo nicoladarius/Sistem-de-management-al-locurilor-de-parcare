@@ -1,13 +1,10 @@
 # Sistem de management al locurilor de parcare
 ## Contor de locuri de parcare, folosind OpenCV
-Acest proiect își propune să ....
 
 ## Cuprins
 - [Introducere](#introducere)
-- [Caracteristici](#caracteristici)
 - [Instalare](#instalare)
 - [Utilizare](#utilizare)
-- [Rezultate](#rezultate)
 - [Structura proiectului](#structura-proiectului)
 - [Autor](#autor)
 
@@ -16,12 +13,6 @@ Un sistem de management al locurilor de parcare este o soluție tehnologică uti
 
 Aceste sisteme pot oferi date și analize cu privire la utilizarea locurilor de parcare în timp real sau într-un anumit interval de timp. Aceste informații pot fi utilizate pentru a îmbunătăți eficiența sistemului, pentru a planifica mai bine gestionarea locurilor de parcare și pentru a optimiza fluxurile de trafic în zonă.
 
-Proiectul „Contor de locuri de parcare, folosind OpenCV” este dezvoltat în ...
-
-## Caracteristici
-- a
-- 
-- 
 ## Instalare
 - Instalați dependențele necesare: `pip install -r cerințeAplicație.txt`.
 
@@ -29,9 +20,6 @@ Proiectul „Contor de locuri de parcare, folosind OpenCV” este dezvoltat în 
 1. Rulați aplicația: `selectorLocuriParcare.py`.
 2. Selectați pozițiile locurilor de parcare din imagine.
 3. Rulați aplicația: `main.py`.
-
-## Rezultate
-- a
 
 ## Structura proiectului
 Proiectul are următoarea structură:
