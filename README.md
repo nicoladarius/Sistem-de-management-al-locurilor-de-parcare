@@ -24,26 +24,30 @@ These systems can provide data and analytics regarding the usage of parking spot
 3. Run the application: `main.py`
 
 ## Project Structure
-The project has the following structure:
-    ├───parking spot counter
+Proiectul are următoarea structură:
+    
+
+    ├───contor de locuri de parcare
     │ ├───carPark.mp4
     │ ├───carParkImg.png
-    │ ├───requirements.txt
-    │ ├───Details.md
+    │ ├───cerințeAplicație.txt
+    │ ├───Detalii.md
     │ ├───main.py
-    │ ├───parkingPositionSave
+    │ ├───salvarePozitieParcari
     │ └───selectorLocuriParcare.py
     ├───Video - imagini
     └───.idea
 
 - `carPark.mp4`: Video file used for parking detection.
 - `carParkImg.png`: Image used to select parking spots.
-- `requirements.txt`: List of dependencies required to run the application.
-- `Details.md`: This file contains details about the code and project usage.
+- `cerințeAplicație.txt`: List of dependencies required to run the application.
+- `Detalii.md`: This file contains details about the code and project usage.
 - `main.py`: This file contains the core logic and modules of the application.
-- `parkingPositionSave`: This file stores information about the selected parking spot positions.
-- `selectorLocuriParcare.py`: This file allows manual selection of parking positions in the image.
+- `salvarePozitieParcari`: This file stores information about the selected parking spot positions.
+- `selectorLocuriParcare.py`: his file allows manual selection of parking positions in the image. 
 - `.idea`: This folder contains IDE-related project configuration files.
+
+
 
 ## Author
 Nicola Darius
