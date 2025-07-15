@@ -25,17 +25,16 @@ These systems can provide data and analytics regarding the usage of parking spot
 
 ## Project Structure
 The project has the following structure:
-├───parking spot counter
-│ ├───carPark.mp4
-│ ├───carParkImg.png
-│ ├───requirements.txt
-│ ├───Details.md
-│ ├───main.py
-│ ├───parkingPositionSave
-│ └───selectorLocuriParcare.py
-├───Video - images
-└───.idea
-
+    ├───parking spot counter
+    │ ├───carPark.mp4
+    │ ├───carParkImg.png
+    │ ├───requirements.txt
+    │ ├───Details.md
+    │ ├───main.py
+    │ ├───parkingPositionSave
+    │ └───selectorLocuriParcare.py
+    ├───Video - imagini
+    └───.idea
 
 - `carPark.mp4`: Video file used for parking detection.
 - `carParkImg.png`: Image used to select parking spots.
